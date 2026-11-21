@@ -1,7 +1,5 @@
 # Bài thực hành 1: Hệ thống tự học và đánh giá code Python với Feynman và Rubric
 
-**Họ tên:** ........  **MSSV:** ........  **Mô hình AI dùng:** ........
-
 ## 1. Mục tiêu
 Làm một prompt cho AI đóng vai Mentor Python, làm được 2 việc:
 - Giải thích khái niệm khó (Linked List) cho dễ hiểu như dạy bạn nhỏ 10 tuổi (Feynman).
